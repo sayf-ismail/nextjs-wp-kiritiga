@@ -22,7 +22,7 @@ export default function Home({ posts, pagination }) {
         <h1
           className={styles.title}
           dangerouslySetInnerHTML={{
-            __html: 'Kiri<3Tiga',
+            __html: 'Kiritiga <3',
           }}
         />
 
